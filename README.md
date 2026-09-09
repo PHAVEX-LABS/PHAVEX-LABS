@@ -1,254 +1,170 @@
-<div align="center">
 
-# 🔴 PHAVEX LABS
+# 👾 PHAVEX
 
-### `OFFENSIVE SECURITY. DEFENSIVE OUTCOMES.`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%7C+Red+Teamer;Breaking+Things+to+Understand+Them;Offensive+Security+%7C+Web+Security;Think.+Hack.+Learn.+Repeat." alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=FF202D&center=true&vCenter=true&width=750&lines=THINK+LIKE+THE+ADVERSARY.;SECURE+LIKE+THE+DEFENDER.;RED+TEAMING+%7C+PENTESTING+%7C+RESEARCH;OFFENSIVE+SECURITY.+DEFENSIVE+OUTCOMES." alt="Typing SVG" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🔴_RED_TEAMING-FF202D?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/⚡_OFFENSIVE_SECURITY-7C3AED?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/🔬_SECURITY_RESEARCH-00D9FF?style=for-the-badge&labelColor=080808" />
-<img src="https://img.shields.io/badge/🛡️_DEFENSIVE_OUTCOMES-00C896?style=for-the-badge&labelColor=080808" />
-
-<br><br>
-
-> **Think like the adversary. Secure like the defender.**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+</p>
 
 ---
 
-<div align="center">
+## 🧠 `whoami`
 
-## 🩸 `WHO AM I`
+```bash
+┌──(phavex㉿github)-[~]
+└─$ whoami
 
-</div>
+Cybersecurity enthusiast
+Offensive security learner
+Web security explorer
+Professional bug breaker 🐛
+```
 
-**PHAVEX LABS** is a cybersecurity and offensive-security practice focused on adversary-minded security assessments, penetration testing, security research, and defensive engineering.
+I like understanding **how systems break, why they break, and how to make them harder to break.**
 
-We study how attackers discover weaknesses, validate exposure, and move through environments — then turn those insights into practical defensive outcomes.
+My main interests revolve around:
 
-<div align="center">
-⚔️ CORE CAPABILITIES
-</div> <table> <tr> <td width="50%">
-🔴 Red Teaming
+* 🔴 Offensive Security
+* 🌐 Web Application Security
+* 🕵️ Reconnaissance & OSINT
+* 🧪 Vulnerability Research
+* 🐧 Linux & Networking
+* ⚔️ Red Teaming
+* 🛡️ Security Engineering
 
-Adversary simulation, attack-path analysis and controlled security testing.
+---
 
-🌐 Web Security
+## ⚔️ `arsenal`
 
-Web application assessment, attack-surface analysis and vulnerability research.
+<p align="center">
 
-🔌 API Security
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
-API attack-surface discovery, authentication and authorization testing.
+<br/>
 
-☁️ Cloud Security
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
 
-Cloud exposure analysis, configuration review and attack-path assessment.
+</p>
 
-</td> <td width="50%">
-🏢 Active Directory
+---
 
-Identity security, privilege-path analysis and enterprise attack simulation.
+## 🩸 `focus`
 
-🎯 Penetration Testing
+```text
+                 ┌──────────────────────────┐
+                 │      OFFENSIVE SECURITY   │
+                 └────────────┬─────────────┘
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+     WEB SECURITY          RECON             NETWORKING
+          │                   │                   │
+          ▼                   ▼                   ▼
+     Bug Hunting          OSINT             Enumeration
+     API Security         Subdomains        Traffic Analysis
+     Auth Flaws           Attack Surface    Protocols
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              ▼
+                       VULNERABILITY RESEARCH
+```
 
-Infrastructure, application and network security assessments.
+---
 
-🔬 Security Research
+## 🔥 `currently_learning`
 
-Vulnerability research, technical analysis and security experimentation.
+* `Web Application Security`
+* `API Security`
+* `Active Directory`
+* `Network Security`
+* `Privilege Escalation`
+* `Python for Security`
+* `Advanced Linux`
+* `Red Team Methodology`
 
-🛡️ Security Consulting
+> **Learn the technology. Understand the attack surface. Think like the attacker.**
 
-Actionable remediation and defensive security recommendations.
+---
 
-</td> </tr> </table>
-<div align="center">
-🧪 PHAVEX METHODOLOGY
-</div>
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   01  RECON                                                   │
-│       Understand the exposed attack surface.                 │
-│                                                              │
-│   02  ENUMERATION                                             │
-│       Identify technologies, services and entry points.       │
-│                                                              │
-│   03  VALIDATION                                              │
-│       Verify security weaknesses within authorized scope.    │
-│                                                              │
-│   04  IMPACT                                                  │
-│       Translate technical findings into realistic risk.      │
-│                                                              │
-│   05  REMEDIATION                                             │
-│       Turn offensive findings into defensive outcomes.       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-ATTACK → UNDERSTAND → REPORT → DEFEND
-<div align="center">
-🔥 TECH STACK
-</div> <p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,cloudflare&theme=dark" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Burp%20Suite-FF202D?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-111318?style=flat-square" /> <img src="https://img.shields.io/badge/Metasploit-7C3AED?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP-FF202D?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-111318?style=flat-square&logo=gnubash&logoColor=white" /> </p>
-<div align="center">
-🩸 RED TEAM FOCUS
-</div>
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  ◉ External Attack Surface                                 │
-│  ◉ Web Application Security                                │
-│  ◉ API Security                                            │
-│  ◉ Adversary Simulation                                    │
-│  ◉ Active Directory Security                               │
-│  ◉ Cloud Security                                          │
-│  ◉ Vulnerability Research                                  │
-│  ◉ Security Automation                                     │
-│  ◉ Detection & Defensive Engineering                       │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-<div align="center">
-🔬 SECURITY RESEARCH
-BREAK → UNDERSTAND → DISCLOSE → DEFEND
-</div>
+## 🧪 `projects`
 
-PHAVEX LABS explores security weaknesses from an adversary's perspective while keeping research focused on responsible and measurable security outcomes.
+| Project                   | Description                                          | Stack         |
+| ------------------------- | ---------------------------------------------------- | ------------- |
+| 🔍 **Recon Tools**        | Automated reconnaissance & enumeration               | Python / Bash |
+| 🕷️ **Web Security Labs** | Vulnerable applications & security experiments       | Python / Web  |
+| ⚡ **Security Scripts**    | Small tools built for learning & automation          | Python / Bash |
+| 🧠 **CTF Writeups**       | Notes, methodologies & lessons learned               | Markdown      |
+| 🛡️ **Security Research** | Experiments around vulnerabilities & attack surfaces | Various       |
 
-Research areas include:
+> More projects coming as the rabbit hole gets deeper. 🐇
 
-Vulnerability analysis
-Web application security
-API security
-Attack-surface discovery
-Security tooling
-Detection engineering
-Defensive hardening
-Adversary techniques
-Security automation
-<div align="center">
-🧠 HOW WE THINK
-</div>
-┌────────────────────┐
-│  ASSUME EXPOSURE   │
-└─────────┬──────────┘
-          ↓
-┌────────────────────┐
-│  MAP THE SURFACE   │
-└─────────┬──────────┘
-          ↓
-┌────────────────────┐
-│ FIND THE WEAKNESS  │
-└─────────┬──────────┘
-          ↓
-┌────────────────────┐
-│ VALIDATE THE RISK  │
-└─────────┬──────────┘
-          ↓
-┌────────────────────┐
-│  REDUCE THE RISK   │
-└────────────────────┘
+---
 
-The objective isn't simply to break something.
+## 📊 `github stats`
 
-The objective is to understand how it can be broken — and make sure it can't be broken the same way twice.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF0055&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=FFFFFF" height="170"/>
+</p>
 
-<div align="center">
-📂 REPOSITORIES
-</div>
+---
 
-Our repositories are organized around offensive security, research and defensive engineering.
+## 🐍 `contribution.exe`
 
-PHAVEX-LABS/
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
+## 🌐 `connect`
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</p>
+
+---
+
+## 💀 `terminal`
+
+```console
+┌──[PHAVEX]──[~/mindset]
 │
-├── 🔴 red-team/
-│   ├── methodology/
-│   ├── tradecraft/
-│   └── adversary-simulation/
+├── $ learn
+├── $ build
+├── $ break
+├── $ understand
+├── $ secure
 │
-├── 🌐 web-security/
-│   ├── reconnaissance/
-│   ├── application-security/
-│   └── vulnerability-research/
-│
-├── 🔌 api-security/
-│
-├── ☁️ cloud-security/
-│
-├── 🏢 active-directory/
-│
-├── 🔬 security-research/
-│   ├── writeups/
-│   ├── analysis/
-│   └── advisories/
-│
-└── 🛡️ defensive-security/
-    ├── detection/
-    ├── hardening/
-    └── remediation/
-<div align="center">
-📡 CURRENT OPERATIONS
-</div>
-RED TEAMING              ████████████████████  100%
-WEB SECURITY             ██████████████████░░   90%
-SECURITY RESEARCH        █████████████████░░░   85%
-API SECURITY             ████████████████░░░░   80%
-CLOUD SECURITY           ███████████████░░░░░   75%
-AD SECURITY              ██████████████░░░░░░   70%
-<div align="center">
-🚨 RESPONSIBLE RESEARCH
-<img src="https://img.shields.io/badge/AUTHORIZED_TESTING-00C896?style=for-the-badge&labelColor=080808" /> <img src="https://img.shields.io/badge/MINIMAL_IMPACT-00D9FF?style=for-the-badge&labelColor=080808" /> <img src="https://img.shields.io/badge/RESPONSIBLE_DISCLOSURE-7C3AED?style=for-the-badge&labelColor=080808" /> </div>
+└── $ repeat_
+```
 
-Security research should improve security — not create unnecessary harm.
+<p align="center">
 
-PHAVEX LABS follows responsible testing principles:
+### `⚡ THINK DIFFERENT. BREAK DIFFERENT. BUILD BETTER. ⚡`
 
-✅ Authorized security testing
-✅ Controlled validation
-✅ Minimal-impact methodology
-✅ Responsible vulnerability disclosure
-✅ Protection of sensitive information
-✅ Clear technical reporting
-❌ No unauthorized access
-❌ No destructive testing
-❌ No unnecessary collection of sensitive data
-<div align="center">
-🛡️ DEFENSIVE OUTCOMES
-</div>
+</p>
 
-Every offensive assessment should produce something useful for defenders.
+---
 
-      OFFENSIVE FINDING
-              │
-              ▼
-       TECHNICAL IMPACT
-              │
-              ▼
-        BUSINESS RISK
-              │
-              ▼
-        REMEDIATION
-              │
-              ▼
-       HARDENED SYSTEM
-              │
-              ▼
-       BETTER DEFENSE
-<div align="center">
-🌐 PHAVEX LABS
-Offensive Security. Defensive Outcomes.
-<br> <img src="https://img.shields.io/badge/RED%20TEAM-FF202D?style=for-the-badge&labelColor=080808" /> <img src="https://img.shields.io/badge/RESEARCH-7C3AED?style=for-the-badge&labelColor=080808" /> <img src="https://img.shields.io/badge/DEFENSE-00C896?style=for-the-badge&labelColor=080808" />
-
-<br><br>
-
-Think like the adversary.
-Secure like the defender.
-
-</div>
-<div align="center">
-
-PHAVEX LABS © 2026
-
-</div> ```
-
+<p align="center">
+  <sub>Built with curiosity • Powered by caffeine • Driven by security</sub>
+</p>

@@ -23,48 +23,13 @@
 
 <div align="center">
 
-## 🩸 `WHOAMI`
+## 🩸 `WHO AM I`
 
 </div>
 
 **PHAVEX LABS** is a cybersecurity and offensive-security practice focused on adversary-minded security assessments, penetration testing, security research, and defensive engineering.
 
 We study how attackers discover weaknesses, validate exposure, and move through environments — then turn those insights into practical defensive outcomes.
-
-```text
-                 ┌─────────────────────┐
-                 │     PHAVEX LABS      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     RECON     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  ENUMERATION  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   VALIDATION  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │     IMPACT    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  REMEDIATION  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   DEFENDED    │
-                    └───────────────┘
 
 <div align="center">
 ⚔️ CORE CAPABILITIES
@@ -286,3 +251,4 @@ Secure like the defender.
 PHAVEX LABS © 2026
 
 </div> ```
+
